@@ -14,7 +14,7 @@
   "license-url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution-text": "Athliit",
   "attribution-url": "https://data.athliit.com/",
-  "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us13.list-manage.com\",\"uuid\":\"9e6648557f84731796a4ac873\",\"lid\":\"2167da53bb\"}) })",
+  "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us9.list-manage.com\",\"uuid\":\"6fd331ba918da2ca4a9244ca7\",\"lid\":\"934c5b3ea3\"}) })",
   "copyright-notice": "",
   "odi-certificate-number": "",
   "publish": false
