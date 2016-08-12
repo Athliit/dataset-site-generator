@@ -1,21 +1,21 @@
 {
-  "dataset-site-url": "https://data.athliit.com/",
+  "dataset-site-url": "http://data.athliit.com/",
   "title": "Athliit Events",
   "description": "Events from various sports businesses on Athliit",
   "publisher-name": "Athliit",
   "publisher-url": "https://athliit.com",
   "keyword-1": "Sport",
   "keyword-2": "Events",
-  "data-url": "http://athliit.com/api/openactive/events",
+  "data-url": "https://athliit.com/api/openactive/events",
   "created": "2017-08-12",
   "documentation-url": "https://github.com/athliit/opendata",
   "rpde-version": "0.2.3",
   "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
   "license-url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution-text": "Athliit",
-  "attribution-url": "https://data.athliit.com/",
+  "attribution-url": "http://data.athliit.com/",
   "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us9.list-manage.com\",\"uuid\":\"6fd331ba918da2ca4a9244ca7\",\"lid\":\"934c5b3ea3\"}) })",
   "copyright-notice": "",
   "odi-certificate-number": "",
   "publish": false
-}
+} 
