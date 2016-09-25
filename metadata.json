@@ -6,7 +6,7 @@
   "publisher-url": "https://athliit.com",
   "keyword-1": "Sport",
   "keyword-2": "Events",
-  "data-url": "https://athliit.com/api/openactive/events",
+  "data-url": "https://api.athliit.com/openactive/events",
   "created": "2017-08-12",
   "documentation-url": "https://github.com/athliit/opendata",
   "rpde-version": "0.2.3",
